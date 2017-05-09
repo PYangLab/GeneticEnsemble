@@ -8,4 +8,4 @@ This algorithm was originally developed for selecting a panel of interacting SNP
 
 #### Reference
 
-Yang, P., Ho, J., Zomaya, A., Zhou, B. (2010). A genetic ensemble approach for gene-gene interaction identification. BMC Bioinformatics, 11(524), 1-15. [Fulltext(https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-11-524)]
+Yang, P., Ho, J., Zomaya, A., Zhou, B. (2010). A genetic ensemble approach for gene-gene interaction identification. BMC Bioinformatics, 11(524), 1-15. [[Fulltext](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-11-524)]
