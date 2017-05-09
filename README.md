@@ -39,4 +39,4 @@ where `[X]` is the name of the file.
 #### Reference
 
 1. Yang, P., Ho, J., Zomaya, A., Zhou, B. (2010). A genetic ensemble approach for gene-gene interaction identification. BMC Bioinformatics, 11(524), 1-15. [[Fulltext](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-11-524)]
-2. Zhang, Z. & Yang, P.# (2008). An ensemble of classifiers with genetic algorithm-based feature selection. IEEE Intelligent Informatics Bulletin, 9(1), 18-24. [[Fulltext](http://dro.deakin.edu.au/eserv/DU:30017964/zhang-anemembleofclassifiers-2008.pdf)]
+2. Zhang, Z. & Yang, P. (2008). An ensemble of classifiers with genetic algorithm-based feature selection. IEEE Intelligent Informatics Bulletin, 9(1), 18-24. [[Fulltext](http://dro.deakin.edu.au/eserv/DU:30017964/zhang-anemembleofclassifiers-2008.pdf)]
