@@ -28,7 +28,7 @@ java -jar GEsnpxPara.jar -f exampleDataset.arff -v -t 10
 
 #### Note
 
-GEsnpx.jar only accept data in ARFF format. If you have a tab-delimited data matrix with column names on the first line and the last column correspond to the instance classes (class has to be binary and coded as "0" and "1"). Please use MAT2ARFF.pl perl script to convert your data into ARFF format. The following is an example:
+`GEsnpx.jar` only accept data in ARFF format. If you have a tab-delimited data matrix with column names on the first line and the last column correspond to the instance classes (class has to be binary and coded as "0" and "1"). Please use MAT2ARFF.pl perl script to convert your data into ARFF format. The following is an example:
 
 ```perl 
 perl MDR2ARFF.pl [X].txt > [X].arff
