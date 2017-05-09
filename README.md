@@ -8,14 +8,23 @@ This algorithm was originally developed for selecting a panel of interacting SNP
 
 #### Examples
 
-To obtain the general information about the program, issue following command in command line without parameters: 
+- To obtain the general information about the program, issue following command in command line without parameters: 
 
 ```java
 java -jar GEsnpxPara.jar
 ```
 
-Following command runs the program on the test data testset1.zip using 10 threads: java -jar GEsnpxPara.jar -f balanced_200_0.2_20.arff -t 10
-To run the above example in verbose mode: java -jar GEsnpxPara.jar -f balanced_200_0.2_20.arff -v -t 10
+- Following command runs the program on the test data testset1.zip using 10 threads: 
+
+```java
+java -jar GEsnpxPara.jar -f balanced_200_0.2_20.arff -t 10
+```
+
+- To run the above example in verbose mode: 
+
+```java
+java -jar GEsnpxPara.jar -f balanced_200_0.2_20.arff -v -t 10
+```
 
 
 #### Reference
